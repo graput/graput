@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning how to make apps
 - 💞️ I’m looking to collaborate on any code
-- 📫 How to reach me http://bit.ly/graput
+- 📫 How to reach me www.graput.ga
 
 <!---
 graput/graput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
